@@ -1,4 +1,4 @@
-# Elastic Homebrew Tap
+# Elastic Homebrew Tap hey!
 
 This tap is for products in the Elastic stack.
 
